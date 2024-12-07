@@ -1,1 +1,1 @@
-This repository is for Leetcode practicing.
+This repository is using `C++` and `Python` for Leetcode practicing.
